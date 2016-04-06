@@ -1,3 +1,4 @@
+// Author : Armand Thierry djappi, October 2014 
 //this is the file where you'll write implementation of the datastructure
 using namespace std;
 #include "datastructure.hh"
