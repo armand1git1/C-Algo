@@ -1,3 +1,4 @@
+// Author : Armand Thierry DJAPPI , October 2014
 // Definition of Datastructure class for UDS/Tiraka homework 1 -
 #ifndef DATASTRUCTURE_HH
 #define DATASTRUCTURE_HH
