@@ -1,3 +1,4 @@
+// Armand Thierry DJAPPI, October 2014
 // Main program for first homework of Utilization of datastructures
 // and Tietorakenteet ja algoritmit.
 #include <iostream>
